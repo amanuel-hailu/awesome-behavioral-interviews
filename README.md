@@ -938,7 +938,10 @@ I am excited about the opportunity to bring my diverse skill set, passion for te
 - What excites you the most about the [company name]'s future?
 - I’m very interested in scalability, and I’d love to learn more about it. What opportunities are there at this company to learn more about this?
 
-## 📇 Other Resources
+## 📇 Courses
+- [Master Behavioral Interviews](https://algomaster.io/learn/behavioral/what-are-behavioral-interviews)
+
+## Other Resources
 - [Amazon Leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles)
 
 ---
